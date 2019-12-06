@@ -103,8 +103,4 @@ while (!aminoacidFile.eof())
 	aminochain += " ";
 }
 cout << aminochain;
-
-
-
-
 }
